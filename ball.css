@@ -1,0 +1,11 @@
+h3 {
+    color: green;
+}
+
+canvas {
+    background-color: #F08080;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    
+} 
